@@ -3,7 +3,7 @@ name: Deploy to EC2 machine
 on:
   push:
     branches:
-      - main
+      -main
   pull_request:
     branches:
       - main
